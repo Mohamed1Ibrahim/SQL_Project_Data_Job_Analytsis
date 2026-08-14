@@ -239,7 +239,7 @@ Throughout this project, I strengthened my SQL skills and developed a more analy
 
 - **💡 Analytical Thinking:** Learned how to approach problems like a Data Analyst — breaking down questions, identifying what the data can tell me, and turning raw data into meaningful insights.
 
-# Conclusions
+
 
 # Conclusion
 
