@@ -67,7 +67,7 @@ Senior positions such as Director and Principal Data Analyst also show strong ea
 
 Specialized roles, such as Marketing Data Analyst, can also command high salaries.
 
-![top_paying_roles](assets\top_paying_data_analyst_jobs_clean.png)
+![top_paying_roles](assets/top_paying_data_analyst_jobs_clean.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Top_Paying_Job_Skills 
@@ -107,7 +107,7 @@ ORDER BY salary_year_avg DESC
 - More common skills such as SQL (8 jobs), Tableau (6), R (4), Excel (3), and Pandas (3) still show strong average salaries, making them more reliable signals than one-off skills.
 - Key Note: A high average salary does not necessarily mean a skill itself causes higher pay; rare skills may appear in only a few highly paid roles.
 
-![top_paying_skills](assets\top_paying_job_skills.png)
+![top_paying_skills](assets/top_paying_job_skills.png)
 
 *Bar graph visualizing the average salaries associated with the top-paying skills for Data Analyst positions; ChatGPT generated this visualization from my SQL query results.*
 
